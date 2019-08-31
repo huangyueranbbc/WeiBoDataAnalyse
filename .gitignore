@@ -1,0 +1,19 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+target
+target/*
+logs
+logs/*
+build
+.settings
+
+# spark file
+.checkpoint*
+checkpoint*
+tmp
+core-site.xml
+hdfs-site.xml
+yarn-site.xml
