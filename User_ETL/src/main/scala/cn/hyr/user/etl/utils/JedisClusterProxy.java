@@ -8,11 +8,8 @@ import java.io.Serializable;
 import java.util.Set;
 
 /*******************************************************************************
- * 版权信息：安信证券股份有限公司
- * Copyright: Copyright (c) 2019安信证券股份有限公司,Inc.All Rights Reserved.
- *
- * @date 2019-08-31 15:50 
- * @author: <a href=mailto:@essence.com.cn>黄跃然</a>
+ * @date 2019-08-31 15:50
+ * @author: <a href=mailto:huangyr>黄跃然</a>
  * @Description:
  ******************************************************************************/
 public class JedisClusterProxy extends JedisCluster implements Serializable {
